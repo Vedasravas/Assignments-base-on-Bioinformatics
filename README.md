@@ -82,7 +82,9 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 **Vedasravas Dasari**
 MEng in Computer Science (AI/ML)
+
 University of Cincinnati
+
 Spring Semester 2025
 ---
 
