@@ -12,7 +12,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ## 🔬 Projects Included
 
-### 1.  Read Mapping using Bowtie
+### 1. Read Mapping using Bowtie
 
 * Implemented sequence alignment workflows to map short DNA reads to a reference genome using Bowtie
 * Analyzed alignment accuracy and explored genome mapping techniques
@@ -28,7 +28,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ---
 
-### 3.  RNA-Seq Analysis using Kallisto
+### 3. 🧬 RNA-Seq Analysis using Kallisto
 
 * Performed transcript quantification using Kallisto on RNA-seq datasets
 * Computed gene expression levels using TPM normalization
@@ -44,7 +44,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ---
 
-### 5.  Protein Sequence Embedding using ESM2
+### 5. 🧬 Protein Sequence Embedding using ESM2
 
 * Fine-tuned transformer-based protein language model (ESM2) for sequence representation
 * Generated protein embeddings for downstream biological analysis
@@ -52,7 +52,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ---
 
-##  Technologies & Tools
+## Technologies & Tools
 
 * **Programming:** Python
 * **Bioinformatics Tools:** Bowtie, Kallisto, BLAST
@@ -61,7 +61,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 * **Addition Help:** National Center for Biotechnology Information (NCBI) Database and simulation tools
 ---
 
-## 📊 Key Learning Outcomes
+## Key Learning Outcomes
 
 * Applied machine learning and deep learning techniques to biological datasets
 * Developed strong understanding of sequence alignment and genomic data processing
@@ -70,7 +70,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Extend models for real-world biological datasets and benchmarking
 * Integrate visualization tools for sequence and expression analysis
@@ -78,7 +78,7 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 
 ---
 
-## 👤 Author
+## Author
 
 **Vedasravas Dasari**
 MEng in Computer Science (AI/ML)
@@ -86,6 +86,6 @@ University of Cincinnati
 Spring Semester 2025
 ---
 
-## 📎 Note
+## Note
 
 These projects were originally developed as part of academic coursework and have been refined for portfolio presentation.
