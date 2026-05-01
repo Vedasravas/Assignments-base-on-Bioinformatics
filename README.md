@@ -81,11 +81,11 @@ The work integrates concepts from machine learning, algorithm design, and biolog
 ## Author
 
 **Vedasravas Dasari**
-MEng in Computer Science (AI/ML)
+# MEng in Computer Science (AI/ML)
 
-University of Cincinnati
+# University of Cincinnati
 
-Spring Semester 2025
+# Spring Semester 2025
 ---
 
 ## Note
